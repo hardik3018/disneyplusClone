@@ -1,6 +1,6 @@
 # Disney Minus Readme
 
-## <a href="https://disney-clone-d1e27.firebaseapp.com" target="_blank">LIVE DEMO</a>
+## <a href="https://hardikcodes-disneyplus.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Description
 
